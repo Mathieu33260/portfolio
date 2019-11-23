@@ -126,7 +126,7 @@
                     <div class="experience margin-b-50">
                         <h4><b>DEVELOPPEUR WEB</b></h4>
                         <h5 class="font-yellow"><b>LOISIRS ENCHERES, BORDEAUX</b></h5>
-                        <h6 class="margin-t-10">MARS 2018 - JUILLET 2018</h6>
+                        <h6 class="margin-t-10">JUILLET 2018 - AUJOURD'HUI</h6>
                         <p class="font-semi-white margin-tb-30">Développeur web en alternance dans la start up
                             <a class="font-yellow" target="_blank" href="https://www.loisirsencheres.com/">Loisirs Enchères</a> à Bordeaux.
                             Mise en place de système Devops. Développement de l'API, du site web, des interfaces d'administration.
