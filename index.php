@@ -70,20 +70,15 @@
 					<div class="intro">
 						<div class="profile-img"><img src="https://img.loisirsencheres.fr/loisirs/image/upload/v1521639008/ressource/matieu.png" alt=""></div>
 						<h2><b>Mathieu Dumez</b></h2>
-						<h4 class="font-yellow">Développeur Web Full Stack Junior</h4>
+						<h4 class="font-yellow">Développeur Web FullStack Junior</h4>
 						<ul class="information margin-tb-30">
-							<li>Passionné par l'Intelligence Artificielle et le Développement Web</li><br>
+							<li>Passionné par le Développement Web, les voyages et le football.
+                                <br>Curieux de nature, avec un penchant Devops et un fort interêt pour
+                                l'Intelligence Artificielle.</li><br>
 							<li><b>EMAIL : </b>mat_dumez@hotmail.fr</li>
 						</ul>
 						<ul class="social-icons">
 							<li><a href="https://www.linkedin.com/in/mathieu-dumez-3b5279110/"><i class="ion-social-linkedin"></i></a></li>
-							<li><a href="https://twitter.com/DumezMathieu"><i class="ion-social-twitter"></i></a></li>
-						</ul>
-						<ul>
-							<li>Profil Freelance</li>
-						</ul>
-						<ul>
-                            <li><a href="https://www.malt.fr/profile/mathieudumez" data-id="5b2362f0db554c1aabe9410f" class="hopwork_button" data-width="big" data-layout="round"><u>Hire me !</u></a></li>
 						</ul>
 					</div><!-- intro -->
 				</div><!-- col-sm-8 -->
@@ -100,13 +95,15 @@
 					</div>
 				</div><!-- col-sm-4 -->
 				<div class="col-sm-8">
-					<p class="margin-b-50">Etudiant à l'ECV Digital de Bordeaux, en alternance avec l'entreprise Loisirs Enchères
-						,je suis passionné par le développement web, les nouvelles technologies et le football. Pour moi,
-						le web a une infinité de possibilités.<br><br>
+					<p class="margin-b-50">Je me défini comme étant un développeur "FullStack" car je suis un peu touche à tout.
+                        Je maîtrise à la fois des technologies backend et frontend, tout en ayant gros penchant pour tout ce qui est Devops.
+                        Même si "FullStack" veut à la fois tout et rien dire, car on ne peut pas forcément tout savoir, je pense quand même que c'est ce qui me défini le mieux.
+                        <br><br>
 
 						Je cherche toujours à en apprendre plus sur ce qui me passionne, à
 						comprendre comment cela fonctionne, qu'est ce que l'on peut faire avec, etc, pour mettre mes connaissances en
-						pratique et laisser libre cours à mon imagination, sans être bloqué par un manque de savoir faire.</p>
+						pratique et laisser libre cours à mon imagination, sans être bloqué par un manque de savoir faire.
+                        Pour moi, le web a une infinité de possibilités.</p>
 
 				</div><!-- col-sm-8 -->
 			</div><!-- row -->
@@ -126,7 +123,7 @@
                     <div class="experience margin-b-50">
                         <h4><b>DEVELOPPEUR WEB</b></h4>
                         <h5 class="font-yellow"><b>LOISIRS ENCHERES, BORDEAUX</b></h5>
-                        <h6 class="margin-t-10">JUILLET 2018 - AUJOURD'HUI</h6>
+                        <h6 class="margin-t-10">JUILLET 2018 - JUILLET 2020</h6>
                         <p class="font-semi-white margin-tb-30">Développeur web en alternance dans la start up
                             <a class="font-yellow" target="_blank" href="https://www.loisirsencheres.com/">Loisirs Enchères</a> à Bordeaux.
                             Mise en place de système Devops. Développement de l'API, du site web, des interfaces d'administration.
@@ -154,7 +151,6 @@
 
 					<div class="experience margin-b-50">
 						<h4><b>FREELANCE DEVELOPPEUR WEB</b></h4>
-						<h5 class="font-yellow"><b>GLYNDWR UNIVERSITY, PAYS DE GALLES</b></h5>
 						<h6 class="margin-t-10">JUIN 2018 - AUJOURD'HUI</h6>
 						<p class="font-semi-white margin-tb-30">Création d'une auto entreprise pour réaliser des sites web,
 							appli mobiles et API pour différents clients. </p>
@@ -184,7 +180,7 @@
 					</div><!-- experience -->
 
 					<div class="experience margin-b-50">
-						<h4><b>DEVELOPPEUR WEB</b></h4>
+						<h4><b>DEVELOPPEUR API</b></h4>
 						<h5 class="font-yellow"><b>GLYNDWR UNIVERSITY, PAYS DE GALLES</b></h5>
 						<h6 class="margin-t-10">AVRIL 2017 - JUILLET 2017</h6>
 						<p class="font-semi-white margin-tb-30">Réalisation d'une API Web en collaboration avec des chercheurs
