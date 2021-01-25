@@ -31,7 +31,7 @@
 			<div class="heading-wrapper">
 				<div class="row">
 					<div class="col-sm-6 col-md-6 col-lg-4">
-						<div class="info">
+						<div class="info d-flex align-items-center">
 							<i class="icon ion-ios-location-outline"></i>
 							<div class="right-area">
 								<h5>Bordeaux</h5>
@@ -40,7 +40,7 @@
 					</div><!-- col-sm-4 -->
 
 					<div class="col-sm-6 col-md-6 col-lg-4">
-						<div class="info">
+						<div class="info d-flex align-items-center">
 							<i class="icon ion-ios-telephone-outline"></i>
 							<div class="right-area">
 								<h5>06 47 50 18 51</h5>
@@ -49,7 +49,7 @@
 					</div><!-- col-sm-4 -->
 
 					<div class="col-sm-6 col-md-6 col-lg-4">
-						<div class="info">
+						<div class="info d-flex align-items-center">
 							<i class="icon ion-ios-chatboxes-outline"></i>
 							<div class="right-area">
 								<h5>mat_dumez@hotmail.fr</h5>
@@ -68,7 +68,7 @@
 				<div class="col-md-1 col-lg-2"></div>
 				<div class="col-md-10 col-lg-8">
 					<div class="intro">
-						<div class="profile-img"><img src="https://img.loisirsencheres.fr/loisirs/image/upload/v1521639008/ressource/matieu.png" alt=""></div>
+						<div class="profile-img"><img src="images/mathieu.jpg" alt="Profil picture"></div>
 						<h2><b>Mathieu Dumez</b></h2>
 						<h4 class="font-yellow">Développeur Web FullStack Junior</h4>
 						<ul class="information margin-tb-30">
@@ -79,7 +79,11 @@
 						</ul>
 						<ul class="social-icons">
 							<li><a href="https://www.linkedin.com/in/mathieu-dumez-3b5279110/"><i class="ion-social-linkedin"></i></a></li>
+							<li><a target="_blank" href="MathieuDUMEZ.pdf">CV</a></li>
 						</ul>
+                        <button class="btn hire-btn">
+                            <a href="https://www.malt.fr/profile/mathieudumez">Engagez moi sur Malt !</a>
+                        </button>
 					</div><!-- intro -->
 				</div><!-- col-sm-8 -->
 			</div><!-- row -->
@@ -121,7 +125,24 @@
 				<div class="col-sm-8">
 
                     <div class="experience margin-b-50">
-                        <h4><b>DEVELOPPEUR WEB</b></h4>
+                        <h4><b>DEVELOPPEUR WEB FRONT</b></h4>
+                        <h5 class="font-yellow"><b>ASPHALTE, BORDEAUX | FREELANCE</b></h5>
+                        <h6 class="margin-t-10">NOVEMBRE 2020 - FÉVRIER 2021</h6>
+                        <p class="font-semi-white margin-tb-30">Mission de développeur web front-end pour l'entreprise e-commerce
+                            <a class="font-yellow" target="_blank" href="https://asphalte.com/">Asphalte</a> à Bordeaux en tant que Développeur
+                            Web Front en Freelance. Migration du site e-commerce de Asphalte depuis Shopify vers Vue.js,
+                            module par module, dans l'optique d'intégrer ces modules à un site sous Nuxt. Refonte de l'interface
+                            de connexion, du module d'achat, de la fiche produit et du listing des produits. Amélioration du style,
+                            corrections des bugs et amélioration des performances du site.
+                        </p>
+                        <ul class="list margin-b-30">
+                            <li>Principalement Vue.js</li>
+                            <li>FRONTEND, INTÉGRATION & CMS</li>
+                        </ul>
+                    </div><!-- experience -->
+
+                    <div class="experience margin-b-50">
+                        <h4><b>DEVELOPPEUR WEB FULLSTACK</b></h4>
                         <h5 class="font-yellow"><b>LOISIRS ENCHERES, BORDEAUX</b></h5>
                         <h6 class="margin-t-10">JUILLET 2018 - JUILLET 2020</h6>
                         <p class="font-semi-white margin-tb-30">Développeur web en alternance dans la start up
@@ -136,7 +157,7 @@
                     </div>
 
 					<div class="experience margin-b-50">
-						<h4><b>DEVELOPPEUR WEB</b></h4>
+						<h4><b>DEVELOPPEUR WEB FULLSTACK</b></h4>
 						<h5 class="font-yellow"><b>LOISIRS ENCHERES, BORDEAUX</b></h5>
 						<h6 class="margin-t-10">MARS 2018 - JUILLET 2018</h6>
 						<p class="font-semi-white margin-tb-30">Stage de fin d'études (Licence Pro DAWIN) dans la start up
@@ -150,7 +171,8 @@
 					</div><!-- experience -->
 
 					<div class="experience margin-b-50">
-						<h4><b>FREELANCE DEVELOPPEUR WEB</b></h4>
+						<h4><b>DEVELOPPEUR WEB FULLSTACK</b></h4>
+                        <h5 class="font-yellow"><b>FREELANCE</b></h5>
 						<h6 class="margin-t-10">JUIN 2018 - AUJOURD'HUI</h6>
 						<p class="font-semi-white margin-tb-30">Création d'une auto entreprise pour réaliser des sites web,
 							appli mobiles et API pour différents clients. </p>
@@ -162,7 +184,7 @@
 
 					<div class="experience margin-b-50">
 						<h4><b>CHEF DE PROJET & DEVELOPPEUR WEB</b></h4>
-						<h5 class="font-yellow"><b>INLINE APP, BORDEAUX</b></h5>
+						<h5 class="font-yellow"><b>INLINE APP, BORDEAUX | FREELANCE</b></h5>
 						<h6 class="margin-t-10">JANVIER 2018 - AUJOURD'HUI</h6>
 						<p class="font-semi-white margin-tb-30">Développement de l'application
 							<a class="font-yellow" target="_blank" href="http://inline-app.fr/">Inline</a>. Application
