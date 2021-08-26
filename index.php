@@ -70,7 +70,7 @@
 					<div class="intro">
 						<div class="profile-img"><img src="images/mathieu.jpg" alt="Profil picture"></div>
 						<h2><b>Mathieu Dumez</b></h2>
-						<h4 class="font-yellow">Développeur Web FullStack Junior</h4>
+						<h4 class="font-yellow">Développeur Web FullStack Junior en Freelance</h4>
 						<ul class="information margin-tb-30">
 							<li>Passionné par le Développement Web, les voyages et le football.
                                 <br>Curieux de nature, avec un penchant Devops et un fort interêt pour
@@ -123,6 +123,23 @@
 					</div>
 				</div><!-- col-sm-4 -->
 				<div class="col-sm-8">
+
+                    <div class='experience margin-b-50'>
+                        <h4><b>DEVELOPPEUR WEB FULLSTACK</b></h4>
+                        <h5 class='font-yellow'><b>PICHET, BORDEAUX | FREELANCE</b></h5>
+                        <h6 class='margin-t-10'>AVRIL 2021 - AUJOURD'HUI</h6>
+                        <p class='font-semi-white margin-tb-30'>Mission de développeur web fullstack pour le groupe pichet
+                            <a class="font-yellow" target="_blank" href="https://pichet.fr/">Pichet</a> à Bordeaux
+                            en tant que Développeur Web FullStack en Freelance. Amélioration et maintenance du site
+                            <a class='font-yellow' target='_blank' href='https://pichet.fr/'>pichet.fr</a> et des applicatifs
+                            liés.
+                        </p>
+                        <ul class="list margin-b-30">
+                            <li>Grande entreprise</li>
+                            <li>Gestion de développeurs externes en centre de service à l'étranger</li>
+                            <li>FRONTEND, BACKEND, INTÉGRATION, API, GESTION DE CENTRE DE SERVICE</li>
+                        </ul>
+                    </div>
 
                     <div class="experience margin-b-50">
                         <h4><b>DEVELOPPEUR WEB FRONT</b></h4>
